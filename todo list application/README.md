@@ -23,7 +23,7 @@ A modern and minimal **To-Do List** application built with **React**, **Tailwind
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/sklee401/todo-list-application.git
 cd todo-app
 ```
 ## Install Dependencies
