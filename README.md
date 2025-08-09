@@ -11,7 +11,6 @@ A modern and minimal **To-Do List** application built with **React**, **Tailwind
 - ⚡ Fast & responsive for all devices
 
 ## 🖼 Preview
-> Add your screenshot below:
 ![App Screenshot](screenshot.png)
 
 ## 🛠 Tech Stack
